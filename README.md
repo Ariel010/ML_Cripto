@@ -1,2 +1,2 @@
 # ML_Cripto
-Prediccion de valores de cierre de las principales CriptoMonedas
+Intento de prediccion de valor de cierre de BTC
